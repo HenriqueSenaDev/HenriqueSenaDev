@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luiz Henrique  👋 
 🌎 Moro no interior do Ceará, Brasil.<br/>
-🎂 Tenho atualmente 17 anos.<br/>
+🎂 Tenho atualmente 18 anos.<br/>
 📚 Desenvolvedor web fullstack em formação.<br/>
 🌟 Sempre pronto para provar a mim mesmo o que posso fazer.
 
