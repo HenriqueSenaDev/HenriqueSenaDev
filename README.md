@@ -6,7 +6,6 @@ CDF das documentações e estudo de tecnologias mais convenientes ao problema. <
 Sempre pronto para provar o que posso fazer.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=acopsenadeveloper@gmail.com&fs=1&tf=cm)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_luiz.1/)<br/>
 
 ### Tecnologias favoritas
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
