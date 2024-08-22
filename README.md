@@ -1,8 +1,8 @@
 ### • Olá! Eu sou Luiz Henrique  👋 
 
-Desenvolvedor web fullstack em busca da primeira oportunidade de trabalho.<br/>
-Engenheiro de Software em formação pela Universidade Federal do Ceará. <br/>
-CDF das documentações e estudo de tecnologias mais convenientes ao problema. <br/>
+Desenvolvedor web fullstack em busca de aprofundamento de carreira.<br/>
+Graduando em Engenharia de Software pela Universidade Federal do Ceará - Campus Quixadá. <br/>
+CDF das documentações, me adapto facilmente a novas tecnologias e responsabilidades. <br/>
 Sempre pronto para provar o que posso fazer.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=acopsenadeveloper@gmail.com&fs=1&tf=cm)
