@@ -1,4 +1,4 @@
-### • Olá! Eu sou Luiz Henrique  👋 
+### • Olá! Meu nome é Luiz Henrique  👋 
 
 Desenvolvedor web fullstack com +2 anos de experiência.<br/>
 Graduando em Engenharia de Software pela Universidade Federal do Ceará - Campus Quixadá. <br/>
