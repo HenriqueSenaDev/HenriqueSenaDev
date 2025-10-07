@@ -1,7 +1,7 @@
-### • Olá! Meu nome é Luiz Henrique  👋 
+### • Olá! Meu nome é Luiz Sena  👋 
 
-Desenvolvedor web fullstack com +2 anos de experiência.<br/>
-Graduando em Engenharia de Software pela Universidade Federal do Ceará - Campus Quixadá. <br/>
+Sou um desenvolvedor web Full Stack com +2 anos de experiência.<br/>
+Graduando em Engenharia de Software pela Universidade Federal do Ceará - Campus Quixadá.<br/>
 Adepto a novas tecnologias e melhores práticas de mercado.<br/>
 Sempre pronto para provar o que posso fazer.
 
